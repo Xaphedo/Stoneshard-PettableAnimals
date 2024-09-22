@@ -1,0 +1,3 @@
+THIS FOLDER GOES INSIDE THE MAIN STONESHARD FOLDER
+
+For example, if Stoneshard is installed in "C:\Program Files (x86)\Steam\steamapps\common\Stoneshard", the folder structure will need to look like this: "C:\Program Files (x86)\Steam\steamapps\common\Stoneshard\modsounds"
